@@ -18,7 +18,7 @@ import javafx.scene.control.ChoiceBox;
 public class PersonnelController  {
     private final PersonnelService personnelService=new PersonnelService();
     private static final String ADMIN_PASSWORD = "SuperSecret123!";
-    private static final String AWS_SECRET_ACCESS_KEY = "ABCD1234EFGH5678IJKL9012MNOP3456QRST";
+   
 
 
 
