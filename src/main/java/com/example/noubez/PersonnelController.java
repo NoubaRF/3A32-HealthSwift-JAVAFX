@@ -17,6 +17,8 @@ import java.util.List;
 import javafx.scene.control.ChoiceBox;
 public class PersonnelController  {
     private final PersonnelService personnelService=new PersonnelService();
+    private static final String ADMIN_PASSWORD = "SuperSecret123!";
+
 
     @FXML
     private TextField RatingPersonnel;
